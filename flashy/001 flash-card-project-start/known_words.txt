@@ -1,0 +1,1 @@
+{'hiki': 'This', 'km²': 'km²', 'madini': 'minerals', 'lao': 'theirs', 'jeni': 'gene', 'michezo': 'sports', 'ukubwa': 'the size'}
